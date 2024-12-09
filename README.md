@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Alper</h1>
 <h3 align="center">Data Scientist</h3>
 
-- 🔭 I’m currently working on **Industry 4.0 Projects at BSH**
+- 🔭 I’m currently working on **Industry 4.0 Projects at BSH.**
 
-- 🌱 I’m currently learning **advanced Deep Learning topics**
+- 🌱 I’m currently learning **advanced Deep Learning topics.**
 
-- 💬 Ask me about **Data Science and Machine Learning/Deep Learning**
+- 💬 Ask me about **Data Science and Machine Learning/Deep Learning.**
 
-- 📝 Next: **Federated Learning and Edge Computing Concepts for my Data Science projects**
+- 📝 Next: **Federated Learning and Edge Computing Concepts for my Data Science projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alperylmz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alperylmz/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/alperylmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/alperylmz" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/alperylmz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/alperylmz1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alperylmz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperylmz" height="30" width="40" /></a>
+<a href="https://kaggle.com/alperylmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alperylmz" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/alperylmz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alperylmz1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
